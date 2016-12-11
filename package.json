@@ -1,12 +1,13 @@
 {
 	"name": "node-yeelight",
-	"version": "1.0.2",
-	"description": "Control Xiaomi Yeelight smart light bulbs",
+	"version": "1.0.3",
+	"description": "Control Xiaomi Yeelight WiFi enabled smart light bulbs",
 	"keywords": [
 		"yeelight",
 		"xiaomi",
 		"mi",
 		"e27",
+		"wifi",
 		"smart light",
 		"led bulb"
 	],
