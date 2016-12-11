@@ -1,0 +1,16 @@
+{
+	"name": "node-yeelight",
+	"version": "1.0.0",
+	"description": "Control Yeelight smart lights by Xiaomi",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "James Blanksby",
+	"license": "MIT",
+	"dependencies": {
+		"ip": "^1.1.4",
+		"lodash": "^4.17.2",
+		"net": "^1.0.2"
+	}
+}
