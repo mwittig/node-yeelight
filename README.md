@@ -1,6 +1,6 @@
 # node-yeelight
 
-This package lets you control Yeelight smart lights by Xiaomi.
+This package lets you control Xiaomi Yeelight smart light bulbs.
 
 ## Features
 
