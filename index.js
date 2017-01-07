@@ -177,7 +177,7 @@ Yeelight.prototype.setBrightness = function(device, percentage, speed) {
 Yeelight.prototype.sendCommand = function(device, command, callback) {
 	if (device.connected === false && device.socket === null) {
 		console.log('Connection broken ' + device.connected + '\n' + device.socket);
-
+		this.emit('devicedisconnected', device);
 	    return;
 	}
 
