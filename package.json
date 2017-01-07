@@ -1,6 +1,6 @@
 {
 	"name": "node-yeelight",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Control Xiaomi Yeelight WiFi enabled smart light bulbs",
 	"keywords": [
 		"yeelight",
@@ -17,6 +17,10 @@
 	},
 	"author": "James Blanksby",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jamesblanksby/node-yeelight"
+	},
 	"dependencies": {
 		"ip": "^1.1.4",
 		"lodash": "^4.17.2",
